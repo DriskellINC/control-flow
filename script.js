@@ -6,7 +6,7 @@
 // plant growth after a specific number of weeks.
 let AreaOfCircle = (r) => 5
 const pie = 3.14;
-let area = (pie * r * r;
+let area = pie * r * r;
 let plantSpace = 0.8; squareMeters 
 let totalPlants = 20;
 
@@ -18,9 +18,9 @@ area * = 2;
 const freeSpace = area - (totalPlants * plantSpace);
 const newGrowth = (freeSpace / plantSpace);
 totalPlants += newGrowth;
-
 }
 console.log ("number of weeks, totalPlants");
+
 
     // console.log(AreaOfCircle);
 
