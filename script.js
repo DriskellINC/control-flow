@@ -5,16 +5,17 @@ const area = PI * radius * radius;
 // The plants double in number every week.
 // plant growth after a specific number of weeks.
 let AreaOfCircle = (r)=> 5 
-    const pie = 3.14
-    const area = pie * r * r
+    let pie = 3.14
+    let area = (pie * r * r
+    let = 
+    console.log (AreaOfCircle);
 
-    console.log ("pie * r * r");
 
-// let areaStart = 20 plants
-// let plantPpace = 0.8 squareMeters
-// let plantWeeks = * 2
-// }
-// console.log (pie * r * r)
+let areaStart = 20 plants
+let plantPpace = 0.8 squareMeters
+let plantWeeks = * 2
+}
+console.log (pie * r * r)
 
 // let x = 5
 
